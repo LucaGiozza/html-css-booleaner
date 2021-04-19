@@ -46,3 +46,28 @@ tr{
 .azzurro-chiaro{
     background-color: rgb(134, 216, 243);
 }
+.interesse{
+    color: gray;
+    font-size: 20px;
+}
+.monitor{
+    display: block;
+}
+.foto-footer{
+width: 200px;
+height: 200px;
+background-image: url(../img/monitor.jpg);
+background-size: cover;
+}
+.text-footer{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 15px;
+}
+.seconda-foto-footer{
+width: 200px;
+height: 200px;
+background-image: url(../img/graph.jpg);
+background-size: cover;
+}
